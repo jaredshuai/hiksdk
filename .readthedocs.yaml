@@ -13,5 +13,6 @@ mkdocs:
   configuration: mkdocs.yml  # 指定 MkDocs 配置文件
 
 formats:
-  - html  # 只生成 HTML 格式
-
+  - htmlzip  # 生成可下载的 HTML 压缩包
+  - pdf      # 生成 PDF 格式文档
+  - epub     # 生成 EPUB 电子书
