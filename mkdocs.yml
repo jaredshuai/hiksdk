@@ -1,0 +1,7 @@
+site_name: My Docs
+nav:
+  - Home: index.md
+  - DVRNVR: DVRNVR.md
+  - ipc: ipc.md
+theme:
+  name: material  # 使用 Material 主题
